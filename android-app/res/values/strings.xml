@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Information -->
+    <string name="app_name">SMS Forwarder</string>
+    <string name="app_description">Secure SMS forwarding service</string>
+    
+    <!-- Status Messages -->
+    <string name="status_active">Service Active</string>
+    <string name="status_inactive">Service Inactive</string>
+    <string name="checking_permissions">Checking Permissions…</string>
+    <string name="permissions_granted">All permissions granted</string>
+    <string name="permissions_denied">Required permissions not granted</string>
+    
+    <!-- Error Messages -->
+    <string name="error_sms_forward">Failed to forward SMS</string>
+    <string name="error_network">Network connection error</string>
+    <string name="error_initialization">Service initialization failed</string>
+    
+    <!-- Success Messages -->
+    <string name="success_initialization">Service initialized successfully</string>
+    <string name="success_sms_forward">SMS forwarded successfully</string>
+    
+    <!-- UI Elements -->
+    <string name="app_logo">App Logo</string>
+    <string name="status_icon">Status Icon</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="admin_number">Admin Number</string>
+    <string name="save_settings">Save Settings</string>
+    
+    <!-- Notifications -->
+    <string name="notification_channel_name">Service Status</string>
+    <string name="notification_channel_description">Shows the status of the SMS forwarding service</string>
+    <string name="notification_title">SMS Forwarder Active</string>
+    <string name="notification_text">Service is running in background</string>
+</resources>
