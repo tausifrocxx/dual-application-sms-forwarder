@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- BMW Theme Colors -->
+    <color name="bmw_black">#000000</color>
+    <color name="bmw_blue">#1C69D4</color>
+    <color name="bmw_light_blue">#4C8FE2</color>
+    <color name="bmw_white">#FFFFFF</color>
+    <color name="bmw_gray">#666666</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#000000</color>
+    <color name="gradient_middle">#1C69D4</color>
+    <color name="gradient_end">#000000</color>
+    
+    <!-- Status Colors -->
+    <color name="status_active">#4CAF50</color>
+    <color name="status_inactive">#F44336</color>
+    
+    <!-- System Colors -->
+    <color name="primary">@color/bmw_blue</color>
+    <color name="primary_dark">@color/bmw_black</color>
+    <color name="accent">@color/bmw_light_blue</color>
+    <color name="background">@color/bmw_black</color>
+    <color name="text_primary">@color/bmw_white</color>
+    <color name="text_secondary">@color/bmw_gray</color>
+</resources>
